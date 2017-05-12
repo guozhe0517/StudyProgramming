@@ -1,3 +1,3 @@
-  ## StudyProgramming
-  ### contents
+## StudyProgramming
+### Contents
 1.
