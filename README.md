@@ -1,3 +1,3 @@
 ## StudyProgramming
-### Contents
- Git&컴퓨터기초
+ 1### Contents
+ 1Git&컴퓨터기초
