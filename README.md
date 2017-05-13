@@ -1,3 +1,3 @@
 # Study Programming
 ## Contents
-- Git&컴퓨터 기초
+* Git&컴퓨터 기초
