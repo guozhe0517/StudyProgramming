@@ -1,3 +1,3 @@
 # Study Programming
 ## Contents
-1. Git&컴퓨터 기초
+1. 컴퓨터 & 프로그래밍 개론 ✅
