@@ -1,0 +1,9 @@
+public class ArraySub {
+
+	int a;
+	
+	public void printNumber(){
+		System.out.println(a);
+	}
+	
+}
