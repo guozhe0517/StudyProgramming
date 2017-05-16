@@ -1,0 +1,25 @@
+public class ExceptionMain {
+
+	public static void main(String[] args) {
+		int array[] = new int[6];
+		try{
+		array[0]=5;
+		array[5]=10;
+		array[6]=11;
+		int x=1/0;
+		String s= "abbbb";
+		int a= Integer.parseInt(s);
+			//애러가 발생해도 결과값 리턴.
+		}catch(ArrayIndexOutOfBoundsException  e){
+			e.printStackTrace();
+			
+		}catch(NumberFormatException k){
+			k.printStackTrace();
+		}
+		finally{
+			System.out.println("다섯번쨰갑"+array[5]);
+		}
+		System.out.println("시스템이 완료");
+	}
+
+}
