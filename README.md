@@ -8,4 +8,4 @@
 - [Array](https://github.com/guozhe0517/StudyProgramming/blob/master/Java/array/ArrayMain)
 - [Collection](https://github.com/guozhe0517/StudyProgramming/blob/master/Java/collection/CollectionMain)
 - [String](https://github.com/guozhe0517/StudyProgramming/blob/master/Java/string/StringMain) 
-- [Exception]()
+- [Exception](https://github.com/guozhe0517/StudyProgramming/blob/master/Java/Exception)
