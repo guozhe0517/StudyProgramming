@@ -10,5 +10,5 @@
 - [String](https://github.com/guozhe0517/StudyProgramming/blob/master/Java/string/StringMain) 
 - [Exception](https://github.com/guozhe0517/StudyProgramming/blob/master/Java/Exception)
 2. ### Android
--[Gyesangi]()
--[Adapter]()
+- [Gyesangi]()
+- [Adapter](https://github.com/guozhe0517/AdapterBasic)
