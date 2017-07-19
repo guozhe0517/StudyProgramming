@@ -30,3 +30,4 @@
 - [Animation](https://github.com/guozhe0517/Animation/tree/master)
 - [Observer](https://github.com/guozhe0517/RxAndroidBasic01/tree/master)
 - [Observable](https://github.com/guozhe0517/RxAndroidBasic02/tree/master)
+- [notifyItemInserted](https://github.com/guozhe0517/RxAndroidBasic03/tree/master)
